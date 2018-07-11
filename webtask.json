@@ -8,6 +8,7 @@
   "category": "log_export",
   "repository": "https://github.com/auth0-extensions/auth0-logs-to-splunk",
   "docsUrl": "https://auth0.com/docs/extensions/splunk",
+  "codeUrl": "https://cdn.auth0.com/extensions/auth0-logs-to-splunk/auth0-logs-to-splunk-2.0.js",
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-logs-to-splunk/assets/logo.png",
   "keywords": [
     "auth0",
